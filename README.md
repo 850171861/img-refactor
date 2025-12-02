@@ -81,10 +81,10 @@ npx img-refactor run --dirs 'public/**/*' --warnMB --report json --outReport img
 
 ```
 Before:
-src/logo.png (320 KB)
+[1.png](https://github.com/850171861/img-refactor/blob/main/img/1.png) (1.41 MB)
 
 After:
-src/logo.webp (45 KB)
+[1.webp](https://github.com/850171861/img-refactor/blob/main/img/1.webp) (45 KB)
 
 ```
 

@@ -1,6 +1,6 @@
 {
   "name": "img-refactor",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Auto image compression, WebP conversion, and reference replacement CLI",
   "bin": {
     "img-refactor": "bin/img-optimize.js"
