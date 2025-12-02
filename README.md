@@ -86,9 +86,6 @@ src/logo.png (320 KB)
 After:
 src/logo.webp (45 KB)
 
-Refs updated in:
-• src/App.tsx
-• components/Header.tsx
 ```
 
 ## Options
