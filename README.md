@@ -145,11 +145,6 @@ module.exports = {
   - `node ./node_modules/img-refactor/bin/serve-report.js --file img-refactor-report.json --port 8080`
   - Open `http://localhost:8080/`
 
-## Local Testing (before publish)
-
-- Path install: `npm i -D "file:/absolute/path/to/project"`
-- npm link: `npm link` (in plugin), then `npm link img-refactor` (in target project)
-- Tarball: `npm pack` then `npm i -D ./img-refactor-0.1.0.tgz`
 
 ## Collaboration & Caching
 
